@@ -33,7 +33,7 @@ Agriculture, FoodTech & Rural Development
 1.front end:react.js,html,css.
 2.back-end/server:python,java.
 3.database:mysql.
-Screenshot 2026-11-25 221905.png
+c:\Users\acer\Pictures\Screenshots\Screenshot 2026-11-25 221905.png
 ```
 ## Feasibility and Viability
 ```
