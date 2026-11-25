@@ -53,4 +53,5 @@ Agriculture, FoodTech & Rural Development
 ```
 1.10th social knowledge
 2.general knowledge
+3.claude premium
 ```
